@@ -1,6 +1,6 @@
 # 🐾 Pet Image Classification with Convolutional Neural Networks (CNN)
 
-This project is part of the AWS AI & ML Scholarship Program — Future AWS AI Scientist track.
+This project is part of the AWS AI & ML Scholarship Program Future AWS AI Scientist track.
 The goal of the project is to build an image classification pipeline using pre-trained Convolutional Neural Networks (CNNs) (ResNet, AlexNet, VGG) to identify whether images contain dogs, and if so, classify their breed. It was developed step by step by implementing functions, building a complete image classification pipeline.
 
 -----
