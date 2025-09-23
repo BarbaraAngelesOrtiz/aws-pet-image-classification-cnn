@@ -164,7 +164,7 @@ This project fulfills all rubric criteria:
 
 ## Acknowledgments
 
-<img width="256" height="256" alt="aws-logo-icon" src="https://github.com/user-attachments/assets/340662d3-913e-4ec2-8318-f3a60a754ebb" />
+<img width="205" height="205" alt="aws-logo-icon (1)" src="https://github.com/user-attachments/assets/96be7e16-e0db-43c8-bdc4-83569ce3eb1c" />
 
 <img width="205" height="205" alt="images (2)" src="https://github.com/user-attachments/assets/7084389d-848e-4802-a85a-4763cef95d0c" />
 
