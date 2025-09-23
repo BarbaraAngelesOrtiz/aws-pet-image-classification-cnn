@@ -36,7 +36,8 @@ AWS-Proy1/
 ├── print_functions_for_lab_checks   # Code verification
 ├── test_classifier                  # Classification verification
 │
-├── run_models_batch                 # Runs all three models to test
+├── run_models_batch.sh              # Runs all three models to test
+├── run_models_batch_uploaded.sh     # Runs all three models to test in uploaded images
 │
 ├── pet_images/                      # Test dataset (40 images)
 ├── uploaded_images/                 # User-uploaded images
@@ -44,6 +45,10 @@ AWS-Proy1/
 ├── resnet_pet-images.txt            # Results using ResNet
 ├── alexnet_pet-images.txt           # Results using AlexNet
 ├── vgg_pet-images.txt               # Results using VGG
+├── resnet_uploaded-images.txt       # Results using ResNet in uploaded images
+├── alexnet_uploaded-images.txt      # Results using AlexNet in uploaded images
+├── vgg_uploaded-images.txt          # Results using VGG in uploaded images
+│
 └── requirements.txt                 # Project dependencies
 ````
 -----
