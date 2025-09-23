@@ -145,3 +145,25 @@ This project fulfills all rubric criteria:
 * Support for classifying uploaded images.
 
 -----
+
+##Author
+**Bárbara Ángeles Ortiz**
+
+<img src="https://github.com/user-attachments/assets/30ea0d40-a7a9-4b19-a835-c474b5cc50fb" width="115">
+
+[LinkedIn](https://www.linkedin.com/in/barbaraangelesortiz/) | [GitHub](https://github.com/BarbaraAngelesOrtiz)
+
+![Status](https://img.shields.io/badge/status-finished-brightgreen) 📅 September 2025
+
+![Python](https://img.shields.io/badge/python-3.10-blue)
+
+![PyTorch](https://img.shields.io/badge/pytorch-2.2.0-orange)
+
+![NumPy](https://img.shields.io/badge/numpy-1.26.0-blue)
+
+
+## Acknowledgments
+![What is AWS](https://github.com/user-attachments/assets/d286896a-4882-4e12-896c-36d16ffdedf3)
+<img width="225" height="225" alt="images" src="https://github.com/user-attachments/assets/8e845dc0-0039-4f31-8a4c-d1e5b90d60ee" />
+
+
