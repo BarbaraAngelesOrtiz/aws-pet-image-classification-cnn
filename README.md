@@ -21,24 +21,30 @@ The goal of the project is to build an image classification pipeline using pre-t
 ```text
 AWS-Proy1/
 │
-├── check_images.py              # Main program
-├── get_input_args.py            # TODO 1 - Command line argument parser
-├── get_pet_labels.py            # TODO 2 - Extract labels from filenames
-├── classify_images.py           # TODO 3 - Run classification with CNN
-├── adjust_results4_isadog.py    # TODO 4 - Mark results as dog/not dog
-├── calculates_results_stats.py  # TODO 5 - Compute statistics
-├── print_results.py             # TODO 6 - Print summary
+├── check_images.py                  # Main program
+├── get_input_args.py                # TODO 1 - Command line argument parser
+├── get_pet_labels.py                # TODO 2 - Extract labels from filenames
+├── classify_images.py               # TODO 3 - Run classification with CNN
+├── adjust_results4_isadog.py        # TODO 4 - Mark results as dog/not dog
+├── calculates_results_stats.py      # TODO 5 - Compute statistics
+├── print_results.py                 # TODO 6 - Print summary
 │
-├── dognames.txt                 # List of valid dog breeds
+├── dognames.txt                     # List of valid dog breeds
 ├── imagenet1000_clsid_to_human.txt # ImageNet labels
 │
-├── pet_images/                  # Test dataset (40 images)
-├── uploaded_images/             # User-uploaded images
+├── classifier                       # Classifier based on CNN model
+├── print_functions_for_lab_checks   # Code verification
+├── test_classifier                  # Classification verification
 │
-├── resnet_pet-images.txt        # Results using ResNet
-├── alexnet_pet-images.txt       # Results using AlexNet
-├── vgg_pet-images.txt           # Results using VGG
-└── requirements.txt             # Project dependencies
+├── run_models_batch                 # Runs all three models to test
+│
+├── pet_images/                      # Test dataset (40 images)
+├── uploaded_images/                 # User-uploaded images
+│
+├── resnet_pet-images.txt            # Results using ResNet
+├── alexnet_pet-images.txt           # Results using AlexNet
+├── vgg_pet-images.txt               # Results using VGG
+└── requirements.txt                 # Project dependencies
 ````
 -----
 
