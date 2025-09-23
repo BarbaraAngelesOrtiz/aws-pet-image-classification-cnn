@@ -163,7 +163,10 @@ This project fulfills all rubric criteria:
 
 
 ## Acknowledgments
-![What is AWS](https://github.com/user-attachments/assets/d286896a-4882-4e12-896c-36d16ffdedf3)
-<img width="225" height="225" alt="images" src="https://github.com/user-attachments/assets/8e845dc0-0039-4f31-8a4c-d1e5b90d60ee" />
+
+![What is AWS (1)](https://github.com/user-attachments/assets/e1997446-9538-48bb-88b5-334469a8c06d)
+<img width="180" height="180" alt="images (1)" src="https://github.com/user-attachments/assets/e8307852-2d18-4291-88fc-183a89d33e7c" />
+
+
 
 
