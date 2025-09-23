@@ -18,6 +18,7 @@ The goal of the project is to build an image classification pipeline using pre-t
 
 ## 🗂️ Project Structure 
 
+```text
 AWS-Proy1/
 │
 ├── check_images.py              # Main program
@@ -38,7 +39,7 @@ AWS-Proy1/
 ├── alexnet_pet-images.txt       # Results using AlexNet
 ├── vgg_pet-images.txt           # Results using VGG
 └── requirements.txt             # Project dependencies
-
+````
 -----
 
 ## ⚙️ Installation
