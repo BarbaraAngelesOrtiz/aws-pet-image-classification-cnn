@@ -166,6 +166,7 @@ This project fulfills all rubric criteria:
 
 ![NumPy](https://img.shields.io/badge/numpy-1.26.0-blue)
 
+----
 
 ## Acknowledgments
 
